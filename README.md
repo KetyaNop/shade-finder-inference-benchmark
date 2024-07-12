@@ -8,11 +8,11 @@ Below a guide on how to use the benchmark inference for the Shade Finder API. Fo
 pip install requests pandas openpyxl
 ```
 
-1. Upload all the images you want to use for inference to the `images` directory
-2. Execute the script
+2. Upload all the images you want to use for inference to the `images` directory
+3. Execute the script
 
 ```bash
 python benchmark.py 
 ```
 
-1. Results in an excel sheet located in `/results`
+4. Results in an excel sheet located in `/results`
