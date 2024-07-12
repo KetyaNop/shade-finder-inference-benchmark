@@ -1,5 +1,3 @@
-Below a guide on how to use the benchmark inference for the Shade Finder API. Follow the steps outlined below to upload images, run the benchmark script, and generate an inference results Excel sheet.
-
 ### Steps to Use the Benchmark Inference
 
 1. Install `requests`, `pands`, and `openpyxl`
